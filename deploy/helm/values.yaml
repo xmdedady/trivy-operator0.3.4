@@ -267,7 +267,7 @@ trivy:
   # githubToken is the GitHub access token used by Trivy to download the vulnerabilities
   # database from GitHub. Only applicable in Standalone mode.
   #
-  githubToken: "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"
+  githubToken: "ghp_omsmeuxxxx"
 
   # serverURL is the endpoint URL of the Trivy server. Required in ClientServer mode.
   #
